@@ -1,1 +1,1 @@
-# Wheel-rating-system-template
+# This is a simple wheel-shaped rating template.
