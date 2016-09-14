@@ -1,5 +1,6 @@
 <?php
 ?>
+<!-- Wheel rating system remplate by catega -->
 <!DOCTYPE html>
 <html lang="es">
 <head>
