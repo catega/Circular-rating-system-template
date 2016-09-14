@@ -2,7 +2,7 @@
 ?>
 <!-- Semi-circular rating system template by catega -->
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<title>Semi-circular rating system template</title>
