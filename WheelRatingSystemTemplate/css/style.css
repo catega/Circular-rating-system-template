@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.wheel{
+	left: 45%;
+	top: 40%;
+	transform: rotate(90deg);
+	background: linear-gradient(#eb4947 50%, #00FFA6 50%);
+}
+
+.wheelCenter{
+	content: "";
+	background: #fff content-box;
+	padding: .5em;
+	box-sizing: border-box;
+	font-size: 2rem;
+	line-height: 8rem;
+	transform: rotate(-90deg);
+}
+
+.wheelBase{
+	content: "";
+	border-radius: 50%;
+	background: linear-gradient(transparent 50%, #fff 50%);
+	transform: scale(1.1) rotate(-90deg);
+	line-height: 13rem;
+}
+
+.wheel,
+.wheelCenter,
+.wheelBase,
+.points,
+.votes{
+	width: 12rem;
+	height: 12rem;
+	border-radius: 50%;
+	position: absolute;
+}
+
+.wheelCenter,
+.wheelBase,
+.points,
+.votes{
+	top: 0;
+	left: 0;
+	text-align: center;
+}
+
+.points,
+.votes{
+	margin: 0;
+	z-index: 10;
+	transform: rotate(-90deg);
+	line-height: 11rem;
+	font-size: 1.3rem;
+}
+
+.votes{
+	line-height: 10rem;
+	font-size: 1.8rem;
+}
