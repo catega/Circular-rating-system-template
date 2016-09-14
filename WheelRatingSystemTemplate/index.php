@@ -1,11 +1,11 @@
 <?php
 ?>
-<!-- Circular rating system template by catega -->
+<!-- Semi-circular rating system template by catega -->
 <!DOCTYPE html>
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>Circular rating system template</title>
+	<title>Semi-circular rating system template</title>
 	<link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/style.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
